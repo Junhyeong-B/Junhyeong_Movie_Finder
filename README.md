@@ -1,7 +1,5 @@
 # Junhyeong's Movie Finder
 <div align="center">
-  <img width="300px" src='https://user-images.githubusercontent.com/85148549/147532297-aa709876-55e1-4eed-a857-0e90a581dd58.PNG' alt="Junhyeong's Movie Finder 로고"/>
-
   <img src="https://img.shields.io/badge/Vue-v3.2.19-4FC08D?logo=Vue.js"/>
   <img src="https://img.shields.io/badge/Vuex-v4.0.2-1867C0"/>
   <img src="https://img.shields.io/badge/VueRouter-v4.0.11-671CDE"/>
@@ -16,7 +14,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c5b2debb-4435-4ab8-8a4b-1ae9fd13795d/deploy-status)](https://app.netlify.com/sites/ecstatic-banach-db4c1a/deploys)
 
-[이동하기](https://junhyeongs-movie-finder.netlify.app/)
+- [이동하기](https://junhyeongs-movie-finder.netlify.app/)
 
 <br />
 
